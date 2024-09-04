@@ -1,0 +1,122 @@
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\STUDENT\Desktop\210911300\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Register.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\210911382_DBMS\Kash\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Login.resources
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Login.resources
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Register.resources
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Downloads\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Register.resources
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\hbhan\Documents\Kash\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Login.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Register.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+Z:\Downloads\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Register.resources
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\hbhan\Documents\Kash\finalV2\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Register.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Microsoft.Win32.Registry.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Asio.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Core.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Midi.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.WinForms.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.WinMM.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Microsoft.Win32.Registry.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Asio.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Core.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Midi.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.Wasapi.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.WinForms.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\NAudio.WinMM.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.AudioPlayerForm.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Admin.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.ViewAuditLogForm.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.ModifyDatabaseForm.resources
+C:\Users\kashi\OneDrive - Manipal Academy of Higher Education\kshi\kshi\HelloChutiye\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.ViewDatabaseForm.resources
